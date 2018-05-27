@@ -1,0 +1,16 @@
+# Elixir Companies in Chicago
+A list of Chicago companies with Elixir in production
+
+<%= for c <- companies do %>
+[<%= c["company_name"] %>](<%= c["url"] %>) | <%= c["location"] %> | <%= c["short_description"] %>
+<% end %>
+
+
+## Contributing
+
+To add a company:
+1. Fork the repo and clone it
+2. Add company information to the [./companies.json](companies.json) file
+3. Cd into the readme_generator folder and run `mix generate_readme`
+4. Commit `companies.json` and the newly generated `README.md`
+5. Push and submit a PR
