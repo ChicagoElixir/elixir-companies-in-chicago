@@ -1,16 +1,27 @@
 # Elixir Companies in Chicago
-A list of Chicago companies with Elixir in production
+A list of Chicago companies with Elixir in production. To add/update a company
+see the [contributing guidelines](#contributing).
+
 
 <%= for c <- companies do %>
-[<%= c["company_name"] %>](<%= c["url"] %>) | <%= c["location"] %> | <%= c["short_description"] %>
+### [<%= c["company_name"] %>](<%= c["url"] %>) | <%= c["location"] %>
+<%= c["short_description"] %>
+
+---
 <% end %>
 
 
 ## Contributing
 
-To add a company:
-1. Fork the repo and clone it
-2. Add company information to the [./companies.json](companies.json) file
+To add/update a company:
+1. Fork the repo
+2. Add/update company information to the [./companies.json](companies.json) file
 3. Cd into the readme_generator folder and run `mix generate_readme`
 4. Commit `companies.json` and the newly generated `README.md`
 5. Push and submit a PR
+
+## Disclaimer
+
+This list is not official or endorsed by the companies listed, if you wish to
+have a company information removed please open PR or an
+[issue](https://github.com/ChicagoElixir/elixir-companies-in-chicago/issues).
