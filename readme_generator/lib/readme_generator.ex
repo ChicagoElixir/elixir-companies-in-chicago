@@ -16,7 +16,7 @@ defmodule ReadmeGenerator do
   end
 
   defp template do
-    "../README.md.eex"
+    "templates/README.md.eex"
     |> File.read!()
   end
 end
