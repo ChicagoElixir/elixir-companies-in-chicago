@@ -49,6 +49,11 @@ Telnyx builds a self-service, full-stack communications platform
 
 ---
 
+### [FarmBot, Inc.](https://www.farm.bot) | Saint Charles
+Agriculture automation robots for researchers, educators and hobbyists.
+
+---
+
 
 
 ## Contributing

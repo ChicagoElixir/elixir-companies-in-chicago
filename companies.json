@@ -70,6 +70,14 @@
       "url": "https://telnyx.com",
       "short_description":
         "Telnyx builds a self-service, full-stack communications platform"
+    },
+    {
+       "company_name": "FarmBot, Inc.",
+       "location": "Saint Charles",
+       "address": "15 S. 2nd St. Saint Charles, IL 60174",
+       "url": "https://www.farm.bot",
+       "short_description":
+         "Agriculture automation robots for researchers, educators and hobbyists."
     }
   ]
 }
