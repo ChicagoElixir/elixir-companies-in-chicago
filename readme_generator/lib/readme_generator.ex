@@ -13,6 +13,7 @@ defmodule ReadmeGenerator do
     |> File.read!()
     |> Jason.decode!()
     |> Map.get("companies")
+    |> Enum.sort(&(&1["company_name"] <= &2["company_name"]))
   end
 
   defp template do

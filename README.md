@@ -24,18 +24,23 @@ Financial Trading, Real Estate
 
 ---
 
+### [FarmBot, Inc.](https://www.farm.bot) | Saint Charles
+Agriculture automation robots for researchers, educators and hobbyists.
+
+---
+
 ### [Hashrocket](https://hashrocket.com/elixir) | West Loop
 Hashrocket is a web development shop specializing in Elixir, Ruby, and JavaScript
 
 ---
 
-### [National Association of Realtors](https://www.nar.realtor/) | River North
-National Association of Realtors is a trade and professional association for Realtors, with a research arm using Elixir and Nerves
+### [NFI Industries](https://nfiindustries.com/) | Bensenville, IL
+NFI is a leading international third party logistics provider
 
 ---
 
-### [NFI Industries](https://nfiindustries.com/) | Bensenville, IL
-NFI is a leading international third party logistics provider
+### [National Association of Realtors](https://www.nar.realtor/) | River North
+National Association of Realtors is a trade and professional association for Realtors, with a research arm using Elixir and Nerves
 
 ---
 
@@ -46,11 +51,6 @@ Raise is an online gift card marketplace where you can sell gift cards for cash 
 
 ### [Telnyx](https://telnyx.com) | River North
 Telnyx builds a self-service, full-stack communications platform
-
----
-
-### [FarmBot, Inc.](https://www.farm.bot) | Saint Charles
-Agriculture automation robots for researchers, educators and hobbyists.
 
 ---
 
