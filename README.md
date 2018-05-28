@@ -62,7 +62,7 @@ Telnyx builds a self-service, full-stack communications platform
 To add/update a company:
 1. Fork the repo
 2. Add/update company information to the [./companies.json](companies.json) file
-3. Cd into the readme_generator folder and run `mix generate_readme`
+3. Cd into the `readme_generator` folder and run `mix generate_readme`
 4. Commit `companies.json` and the newly generated `README.md`
 5. Push and submit a PR
 
