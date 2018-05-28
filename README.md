@@ -1,7 +1,8 @@
 # Elixir Companies in Chicago
-A list of Chicago companies with Elixir in production. To add/update a company
+A list of Chicagoland companies with Elixir in production. To add/update a company
 see the [contributing guidelines](#contributing).
 
+---
 
 
 ### [Albert](https://www.albert.io/) | River North
