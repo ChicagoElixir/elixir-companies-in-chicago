@@ -35,7 +35,7 @@ Hashrocket is a web development shop specializing in Elixir, Ruby, and JavaScrip
 
 ---
 
-### [NFI Industries](https://nfiindustries.com/) | Bensenville, IL
+### [NFI Industries](https://nfiindustries.com/) | West Town
 NFI is a leading international third party logistics provider
 
 ---
