@@ -5,7 +5,7 @@ see the [contributing guidelines](#contributing).
 ---
 
 <%= for c <- companies do %>
-### [<%= c["company_name"] %>](<%= c["url"] %>) | <%= c["location"] %>
+### [<%= c["company_name"] %>](<%= c["url"] %>) | [<%= c["location"] %>](<%= c["map_url"] %>)
 <%= c["short_description"] %>
 
 ---
