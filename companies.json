@@ -5,24 +5,28 @@
       "location": "River North",
       "address": "11 E Illinois St, Ste 501 Chicago, IL 60611",
       "url": "https://www.albert.io/",
-      "short_description":
-        "Albert offers interactive practice platform for standardized tests such as AP, SAT, ACT, GRE, GMAT and more"
+      "short_description": "Albert offers interactive practice platform for standardized tests such as AP, SAT, ACT, GRE, GMAT and more"
     },
     {
       "company_name": "Cancer IQ",
       "location": "Loop",
       "address": "541 N. Fairbanks Ct. Suite 2200, Chicago, IL 60622",
       "url": "https://www.canceriq.com/",
-      "short_description":
-        "Start, Run and Grow a Cancer Risk Assessment Program"
+      "short_description": "Start, Run and Grow a Cancer Risk Assessment Program"
+    },
+    {
+      "company_name": "Cars.com",
+      "location": "Loop",
+      "address": "300 S. Riverside Plaza Suite 1000, Chicago, IL 60606",
+      "url": "https://www.cars.com/",
+      "short_description": "Cars.com is a leading two-sided digital automotive marketplace that connects car shoppers with sellers."
     },
     {
       "company_name": "CityBase",
       "location": "Loop",
       "address": "30 North LaSalle Street, Chicago, IL 60602",
       "url": "https://thecitybase.com/",
-      "short_description":
-        "CityBase works with government and utility clients, provides end-to-end payment solutions and digital services"
+      "short_description": "CityBase works with government and utility clients, provides end-to-end payment solutions and digital services"
     },
     {
       "company_name": "DRW Trading",
@@ -36,48 +40,42 @@
       "location": "West Loop",
       "address": "661 W Lake St. Suite 3NE, Chicago, IL 60661",
       "url": "https://hashrocket.com/elixir",
-      "short_description":
-        "Hashrocket is a web development shop specializing in Elixir, Ruby, and JavaScript"
+      "short_description": "Hashrocket is a web development shop specializing in Elixir, Ruby, and JavaScript"
     },
     {
       "company_name": "National Association of Realtors",
       "location": "River North",
       "address": "430 N. Michigan Ave, Chicago, IL 60611-4087",
       "url": "https://www.nar.realtor/",
-      "short_description":
-        "National Association of Realtors is a trade and professional association for Realtors, with a research arm using Elixir and Nerves"
+      "short_description": "National Association of Realtors is a trade and professional association for Realtors, with a research arm using Elixir and Nerves"
     },
     {
       "company_name": "NFI Industries",
       "location": "West Town",
       "address": "740 North Ogden Avenue, Chicago, IL 60642",
       "url": "https://nfiindustries.com/",
-      "short_description":
-        "NFI is a leading international third party logistics provider"
+      "short_description": "NFI is a leading international third party logistics provider"
     },
     {
       "company_name": "Raise",
       "location": "Loop",
       "address": "11 E Madison St, Chicago, IL 60602",
       "url": "https://www.raise.com/",
-      "short_description":
-        "Raise is an online gift card marketplace where you can sell gift cards for cash or buy discount gift cards to all your favorite brands."
+      "short_description": "Raise is an online gift card marketplace where you can sell gift cards for cash or buy discount gift cards to all your favorite brands."
     },
     {
       "company_name": "Telnyx",
       "location": "River North",
       "address": "311 W Superior St #504, Chicago, IL 60654",
       "url": "https://telnyx.com",
-      "short_description":
-        "Telnyx builds a self-service, full-stack communications platform"
+      "short_description": "Telnyx builds a self-service, full-stack communications platform"
     },
     {
-       "company_name": "FarmBot, Inc.",
-       "location": "Saint Charles",
-       "address": "15 S. 2nd St. Saint Charles, IL 60174",
-       "url": "https://www.farm.bot",
-       "short_description":
-         "Agriculture automation robots for researchers, educators and hobbyists."
+      "company_name": "FarmBot, Inc.",
+      "location": "Saint Charles",
+      "address": "15 S. 2nd St. Saint Charles, IL 60174",
+      "url": "https://www.farm.bot",
+      "short_description": "Agriculture automation robots for researchers, educators and hobbyists."
     }
   ]
 }
