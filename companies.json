@@ -76,6 +76,13 @@
       "address": "15 S. 2nd St. Saint Charles, IL 60174",
       "url": "https://www.farm.bot",
       "short_description": "Agriculture automation robots for researchers, educators and hobbyists."
+    },
+    {
+      "company_name": "Fast Radius",
+      "location": "Goose Island/West Loop",
+      "address": "1415 N Cherry Ave, Chicago, IL 60642",
+      "url": "https://www.fastradius.com/",
+      "short_description": "Fast Radius is the leading provider of additive manufacturing solutions."
     }
   ]
 }
