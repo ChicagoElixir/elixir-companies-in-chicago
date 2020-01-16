@@ -35,6 +35,11 @@ Agriculture automation robots for researchers, educators and hobbyists.
 
 ---
 
+### [Fast Radius](https://www.fastradius.com/) | [Goose Island/West Loop](https://duckduckgo.com/?q=1415%20N%20Cherry%20Ave,%20Chicago,%20IL%2060642&ia=maps&iaxm=maps)
+Fast Radius is the leading provider of additive manufacturing solutions.
+
+---
+
 ### [Hashrocket](https://hashrocket.com/elixir) | [West Loop](https://duckduckgo.com/?q=661%20W%20Lake%20St.%20Suite%203NE,%20Chicago,%20IL%2060661&ia=maps&iaxm=maps)
 Hashrocket is a web development shop specializing in Elixir, Ruby, and JavaScript
 
