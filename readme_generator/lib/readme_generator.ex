@@ -16,7 +16,13 @@ defmodule ReadmeGenerator do
     |> Jason.decode!()
     |> Map.get("companies")
     |> Stream.map(&inject_map_url/1)
-    |> Enum.sort(&(&1[@sort_by] <= &2[@sort_by]))
+    |> Enum.sort(&(comparable_company_name(&1) <= comparable_company_name(&2)))
+  end
+
+  defp comparable_company_name(company) do
+    company
+    |> Map.get(@sort_by)
+    |> String.downcase()
   end
 
   defp inject_map_url(company) do

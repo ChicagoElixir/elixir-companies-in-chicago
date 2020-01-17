@@ -30,6 +30,11 @@ Financial Trading, Real Estate
 
 ---
 
+### [dscout](https://www.dscout.com/) | [Loop](https://duckduckgo.com/?q=222%20N%20LaSalle%20St%20Suite%20650,%20Chicago,%20IL%2060601&ia=maps&iaxm=maps)
+In-context insights via remote qualitative research.
+
+---
+
 ### [FarmBot, Inc.](https://www.farm.bot) | [Saint Charles](https://duckduckgo.com/?q=15%20S.%202nd%20St.%20Saint%20Charles,%20IL%2060174&ia=maps&iaxm=maps)
 Agriculture automation robots for researchers, educators and hobbyists.
 
@@ -45,13 +50,13 @@ Hashrocket is a web development shop specializing in Elixir, Ruby, and JavaScrip
 
 ---
 
-### [NFI Industries](https://nfiindustries.com/) | [West Town](https://duckduckgo.com/?q=740%20North%20Ogden%20Avenue,%20Chicago,%20IL%2060642&ia=maps&iaxm=maps)
-NFI is a leading international third party logistics provider
+### [National Association of Realtors](https://www.nar.realtor/) | [River North](https://duckduckgo.com/?q=430%20N.%20Michigan%20Ave,%20Chicago,%20IL%2060611-4087&ia=maps&iaxm=maps)
+National Association of Realtors is a trade and professional association for Realtors, with a research arm using Elixir and Nerves
 
 ---
 
-### [National Association of Realtors](https://www.nar.realtor/) | [River North](https://duckduckgo.com/?q=430%20N.%20Michigan%20Ave,%20Chicago,%20IL%2060611-4087&ia=maps&iaxm=maps)
-National Association of Realtors is a trade and professional association for Realtors, with a research arm using Elixir and Nerves
+### [NFI Industries](https://nfiindustries.com/) | [West Town](https://duckduckgo.com/?q=740%20North%20Ogden%20Avenue,%20Chicago,%20IL%2060642&ia=maps&iaxm=maps)
+NFI is a leading international third party logistics provider
 
 ---
 
@@ -62,11 +67,6 @@ Raise is an online gift card marketplace where you can sell gift cards for cash 
 
 ### [Telnyx](https://telnyx.com) | [River North](https://duckduckgo.com/?q=311%20W%20Superior%20St%20#504,%20Chicago,%20IL%2060654&ia=maps&iaxm=maps)
 Telnyx builds a self-service, full-stack communications platform
-
----
-
-### [dscout](https://www.dscout.com/) | [Loop](https://duckduckgo.com/?q=222%20N%20LaSalle%20St%20Suite%20650,%20Chicago,%20IL%2060601&ia=maps&iaxm=maps)
-In-context insights via remote qualitative research.
 
 ---
 
