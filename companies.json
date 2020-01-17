@@ -36,6 +36,13 @@
       "short_description": "Financial Trading, Real Estate"
     },
     {
+      "company_name": "dscout",
+      "location": "Loop",
+      "address": "222 N LaSalle St Suite 650, Chicago, IL 60601",
+      "url": "https://www.dscout.com/",
+      "short_description": "In-context insights via remote qualitative research."
+    },
+    {
       "company_name": "Hashrocket",
       "location": "West Loop",
       "address": "661 W Lake St. Suite 3NE, Chicago, IL 60661",
